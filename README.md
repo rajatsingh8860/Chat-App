@@ -13,7 +13,7 @@ Follow following steps:
 2.Open this folder in Android Studio.<br>
 3.Click on run button and you are ready to use this app.
 
-#You can also install this app using apk 'app-release.apk'. This Apk is provided in root directory.Download and install this apk to use this app.
+#You can also install this app using apk <b>'app-release.apk'</b>. This Apk is provided in root directory.Download and install this apk to use this app.
 
 <br>
 <br>
