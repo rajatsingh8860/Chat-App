@@ -14,9 +14,7 @@ Follow following steps:
 3.Click on run button and you are ready to use this app.
 
 #You can also install this app using apk
-<br>
-<br>
-For apk go to location 'build\app\outputs\flutter-apk'
+'app-release.apk'. This Apk is provided in root directory.Download and install this apk to use this app.
 
 <br>
 <br>
