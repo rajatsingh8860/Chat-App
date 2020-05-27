@@ -8,9 +8,9 @@ local gif and images,you can also view image in fullscreen.
 Want to Use App !!
 
 Follow following steps:
-
-1.Clone or download this repository.
-2.Open this folder in Android Studio.
+<br>
+1.Clone or download this repository.<br>
+2.Open this folder in Android Studio.<br>
 3.Click on run button and you are ready to use this app.
 
 #You can also install this app using apk
